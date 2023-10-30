@@ -1,2 +1,3 @@
 # niet_codetantra_solutions
-Hey NIETians!!.. This will
+Hey NIETians!!.. 
+This will be helpful for you , whenever you feel difficulty during solving codetantra problems...
